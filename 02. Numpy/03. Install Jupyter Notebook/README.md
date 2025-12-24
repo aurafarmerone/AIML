@@ -22,8 +22,7 @@ conda --version
 ## 📂 Step 1: Navigate to Your Working Directory
 
 ```bash
-ls
-d:
+
 cd DirectoryName
 mkdir Jupyter
 cd Jupyter
@@ -87,8 +86,11 @@ conda install jupyter
 ```
 
 ✔ Installed inside `jupyter-env`
+
 ✔ No permission issues
+
 ✔ Safe and isolated
+
 
 
 
@@ -179,9 +181,9 @@ conda remove -n jupyter-env --all
 
 ## 🏁 Summary
 
- ✔ Never install heavy packages in `base`
- ✔ Always use a dedicated Conda environment
- ✔ Jupyter runs locally in your browser
+- ✔ Never install heavy packages in `base`
+- ✔ Always use a dedicated Conda environment
+- ✔ Jupyter runs locally in your browser
 
 Happy Coding 🚀
 

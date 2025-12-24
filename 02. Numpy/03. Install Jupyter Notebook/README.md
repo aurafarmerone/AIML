@@ -1,4 +1,4 @@
-### What is Jupyter Notebook?
+# 🧠 What is Jupyter Notebook?
 
 **Jupyter Notebook** is an open-source, browser-based interactive environment where you can **write and run code**, **see outputs immediately**, and **add explanations, equations, and visuals**—all in one place.
 
@@ -12,7 +12,7 @@ It’s widely used in **data science, AI, and machine learning**.
 
 
 
-### Why Jupyter Notebook is important for AI & ML (AIML)
+## Why Jupyter Notebook is important for AI & ML (AIML)
 
 #### 1️⃣ Interactive experimentation
 

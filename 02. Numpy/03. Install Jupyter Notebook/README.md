@@ -179,9 +179,9 @@ conda remove -n jupyter-env --all
 
 ## 🏁 Summary
 
-✔ Never install heavy packages in `base`
-✔ Always use a dedicated Conda environment
-✔ Jupyter runs locally in your browser
+ ✔ Never install heavy packages in `base`
+ ✔ Always use a dedicated Conda environment
+ ✔ Jupyter runs locally in your browser
 
 Happy Coding 🚀
 

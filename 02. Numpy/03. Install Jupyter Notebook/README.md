@@ -64,6 +64,8 @@ Create a new environment:
 ```bash
 conda create -n jupyter-env
 ```
+## 📸 Screenshot Example: 
+![Jupyter Notebook](assets/conda-create.png)
 
 Activate it:
 
@@ -76,7 +78,8 @@ You should now see:
 ```
 (jupyter-env)
 ```
-
+## 📸 Screenshot Example: 
+![Jupyter Notebook](assets/conda-activate.png)
 
 
 ## 📦 Step 4: Install Jupyter Notebook (Correct Way)
@@ -91,7 +94,8 @@ conda install jupyter
 
 ✔ Safe and isolated
 
-
+## 📸 Screenshot Example: 
+![Jupyter Notebook](assets/conda-install.png)
 
 
 ## 🚀 Step 5: Run Jupyter Notebook
@@ -107,6 +111,8 @@ Jupyter will run on:
 ```
 http://localhost:8888
 ```
+## 📸 Screenshot Example: 
+![Jupyter Notebook](assets/conda-run.png)
 
 A browser window will open automatically.
 

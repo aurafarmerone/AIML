@@ -117,8 +117,9 @@ Missing data can:
 
 def handleMissing(data):
     for user in data:
-        if "age" not in user:
-            user["age"] = 0   # default value for missing age
+        agedata = user.get("age")
+        if(agedata == None):
+            user["age"] = "Null"   # default value for missing age
 ```
 
 ✔ Beginner-friendly and easy to understand
